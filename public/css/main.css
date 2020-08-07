@@ -1,0 +1,15 @@
+.userDeleteForm {
+	display: inline;
+}
+
+.validation {
+	font-size: 12px!important;
+    color: red!important;
+}
+
+.page-name {
+	font-size: 16px;
+    letter-spacing: 1px;
+    color: #3c3a3a;
+    font-weight: 500;
+}
